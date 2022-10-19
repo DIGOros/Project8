@@ -9,7 +9,7 @@ public class Main {
         int n = 9;
 
 
-//        System.out.println();
+
         System.out.println("Part 1.1");
         printNumbers(n);
 
@@ -79,9 +79,3 @@ public class Main {
 
 
 
-//for (int element : array2) {
-//        if (element == what ) {
-//        counter++;
-//        }
-//        }
-//        System.out.println("Number "+ what + " appears " + counter + " times");
